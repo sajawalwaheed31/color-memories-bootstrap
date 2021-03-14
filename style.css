@@ -1,0 +1,38 @@
+*, body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.padding {
+    padding: 20px 20px;
+}
+.main-container {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+.margin-auto {
+    margin: 0 auto;
+}
+.pdg-0 {
+    padding: 0;
+    /* margin: 0; */
+}
+.menu {
+    padding-top: 19px;
+}
+.img {
+    background-image: url(images/shado.png);
+    color: #58585a;
+    font-size: 12.77px;
+    background-image: url(images/shado.png);
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    height: 96px;
+}
+footer .menu-2 ul li {
+    margin-right: 3px;
+    padding-right: 3px;
+}
+a:hover {
+    text-decoration: none;
+}
